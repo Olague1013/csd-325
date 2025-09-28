@@ -1,0 +1,7 @@
+initials = input("aol: ")
+print("If you roll a 2 or 7, you get a 10 mon bonus!")
+house_cut = 0.12
+f total_roll == 2 or total_roll == 7:
+    print(f"You rolled a {total_roll}! You get a 10 mon bonus!")
+    purse += 10
+
